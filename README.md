@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Francisco, a dedicated Telecommunications Engineer with an enduring love for software since my early years. 🚀 My expertise lies in system design and backend development, but you'll catch me exploring the world of front end as well. 💻 Let's connect and build something awesome together! 🌐
+Hey, I'm Francisco! 🚀 A Telecommunications Engineer with a lifelong passion for software. I specialize in system design and backend development, but I also enjoy diving into the frontend world. Always up for building something awesome—let's connect! 💻🌐
 
 <!--
 **franciscopaglia/franciscopaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
